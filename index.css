@@ -1,0 +1,36 @@
+.maindiv{
+    border: 2px solid black;
+    /* text-align: center; */
+    width: 600px;
+    height: 400px;
+    margin: auto ;
+    padding: 10px;
+    border-radius: 10px;
+}
+.name{
+    height: 60px;
+}
+.lable{
+    font-size: 30px;
+}
+input{
+    padding: 5px;
+    width: 50%;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+select{
+    padding: 5px;
+    width: 20%;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+option{
+    font-size: 25px;
+}
